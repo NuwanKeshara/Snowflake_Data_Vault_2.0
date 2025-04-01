@@ -4,7 +4,7 @@ This project focused on redesign and implementation of scalable data warehouse s
 facilitate analytical querying for business intelligence and reporting.
 ![alt text](https://github.com/NuwanKeshara/Snowflake_Data_Vault_2.0/blob/main/cloud%20db.png?raw=true)
 
-- Following are the different layers and their architectural views.
+## - Following are the different layers and their architectural views.
 ![alt text](https://github.com/NuwanKeshara/Snowflake_Data_Vault_2.0/blob/main/Architecture%20Diagrams/Architecture-Staging%20Area.drawio.png?raw=true)
 ![alt text](https://github.com/NuwanKeshara/Snowflake_Data_Vault_2.0/blob/main/Architecture%20Diagrams/Architecture-Raw%20Data%20Vault.drawio.png?raw=true)
 ![alt text](https://github.com/NuwanKeshara/Snowflake_Data_Vault_2.0/blob/main/Architecture%20Diagrams/Architecture-Business%20Data%20Vault.drawio.png?raw=true)
